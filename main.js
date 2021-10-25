@@ -1,1 +1,1 @@
-alert("boner");
+(()=>{"use strict";!function(){const e=document.querySelector("#content"),t=document.createElement("div");t.innerHTML='<img src="./imgs/randy.jpeg" alt="Randy" width="300px" height="300px">\n\t\t<h2>HOME PAGE</h2>\n\t\t<p>Welcome to The Dirty Burger! Home of the filthiest burger you can find. Choose from a delicious selection of burgers whipped up by master chefs Randy and Phil Collins.</p>',e.appendChild(t)}()()})();
