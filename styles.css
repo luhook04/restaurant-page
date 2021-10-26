@@ -1,0 +1,29 @@
+body {
+  background-color: #00c9a7;
+}
+
+#tab-content {
+  padding-top: 30px;
+}
+
+#content {
+  text-align: center;
+  background-color: #845ec2;
+  color: #c4fcef;
+  font-weight: bold;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+img {
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+}
+
+button {
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 10px;
+  background-color: #00c9a7;
+}
